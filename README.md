@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">Salim Al Mersally</h1>
-<p align="center"><b>Senior software engineer — dependable systems, explained simply.</b></p>
+<p align="center"><b>Senior software engineer | dependable systems, explained simply.</b></p>
 
 ---
 
 ### `about`
 
-I build backend systems in Java and Spring Boot, currently working on a central-bank-licensed payment platform. Four years across distributed systems, microservices, and multi-tenant SaaS platforms used by 100+ client organizations — with a habit of explaining outcomes before technologies.
+I build backend systems in Java and Spring Boot, currently working on a central-bank-licensed payment platform. Four years across distributed systems, microservices, and multi-tenant SaaS platforms.
 
 ### `focus`
 
