@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/sm-lockup.svg" width="420" alt="built.by.salim" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/sm-lockup-dark.svg" />
+    <img src="./assets/sm-lockup.svg" width="420" alt="built.by.salim" />
+  </picture>
 </p>
 
 <h1 align="center">Salim Al Mersally</h1>
@@ -7,18 +10,18 @@
 
 ---
 
-### `about`
+### `About`
 
 I build backend systems in Java and Spring Boot, currently working on a central-bank-licensed payment platform. Four years across distributed systems, microservices, and multi-tenant SaaS platforms.
 
-### `focus`
+### `Focus`
 
 - Testing and observability built into the design, not bolted on after
 - Distributed, event-driven systems with real tenant isolation
 - Bringing safe, incremental testing to legacy codebases that didn't have it
 - Mentoring engineers and facilitating delivery across multiple teams
 
-### `skills`
+### `Skills`
 
 **Languages**
 
@@ -59,9 +62,9 @@ I build backend systems in Java and Spring Boot, currently working on a central-
 
 ---
 
-### `find me`
+### `Find me`
 
-🌐 Portfolio & writing — [salimalmersally.com](https://salimalmersally.com)
+<img src="./assets/sm-mark.svg" height="18" alt="" /> Portfolio & writing — [salimalmersally.com](https://salimalmersally.com)
 
 💼 LinkedIn — [linkedin.com/in/salim-al-mersally](https://linkedin.com/in/salim-al-mersally)
 
